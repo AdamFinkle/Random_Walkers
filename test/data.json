@@ -1,0 +1,18 @@
+{
+    "Data initializing the simulation.":"",
+
+    "How many steps each walker should take during one simulation.":"",
+    "steps":2000,
+    
+    "How many walkers should be simulated.":"",
+    "numberOfWalkers":2000,
+    
+    "The starting x coordinate of all the walkers.":"",
+    "x0":10,
+    
+    "The starting y coordinate of all the walkers.":"",
+    "y0":10,
+
+    "Seed for random generation of walk directions":"",
+    "seed":0
+}
